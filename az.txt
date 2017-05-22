@@ -1,6 +1,10 @@
 content
+<<<<<<< HEAD
 DIFFERENT CONTENT
 
+=======
+new code
+>>>>>>> 759b976233ba9e08b700fa0dc141a71671717015
 
 
 anather me4o
